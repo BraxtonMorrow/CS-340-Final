@@ -1,5 +1,8 @@
 # CS-340-Final
 CS 340 repository for my portfolio 
 **How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
+Well since it's basically a script to create, read, write, update, and delete cells in a database, I can essentially use this whenever I need to use that functionality in tandem with a database. 
 **How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+As a computer scientist when I solve a problem I attempt to think about how the problem can be worked into a codeable project, breaking down the problem step-by-step, in comparison to other projects I had an actual databse to work with, so that was interesting.
 **What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+Computer scientists attempt to solve a problem given by the client, typically the problem is something that can be solved solely or in conjunction with code. In this speficic example Grazioso Salvare can better impliment life saving procedures with a geolocation map and a database to search through their entire animal workforce.
